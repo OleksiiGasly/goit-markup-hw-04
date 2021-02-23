@@ -160,6 +160,7 @@ footer {
 }
 
 footer .container {
+  align-items: baseline;
   display: flex;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -191,7 +192,7 @@ footer .container {
 
 .join-us {
   margin-left: 70px;
-  padding-top: 12px;
+  /* padding-top: 12px; */
 }
 
 .join-us-title {
